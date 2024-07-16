@@ -1,2 +1,2 @@
 Welcome to P4 class
-Today
+Today is a good day
